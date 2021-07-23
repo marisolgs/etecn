@@ -1,0 +1,34 @@
+div {
+    background-color: #e6aad9;
+    border-style: solid;
+    border-color: #7d7c7d;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    color:#6b94b5;
+}
+
+h3{
+    color: #da9452;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color:#f5e9f5;
+
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    display: none;
+}
